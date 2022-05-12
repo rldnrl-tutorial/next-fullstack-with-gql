@@ -6,3 +6,4 @@
 - Next.js
 - Prisma
 - GraphQL
+- TailwindCSS
