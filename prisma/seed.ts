@@ -1,5 +1,5 @@
 import { PrismaClient } from '@prisma/client'
-import { links } from '@/mocks/link'
+import { links } from '../src/mocks/link'
 const prisma = new PrismaClient()
 
 async function main() {
