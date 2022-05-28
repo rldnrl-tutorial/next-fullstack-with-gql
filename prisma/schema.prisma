@@ -35,5 +35,5 @@ model Link {
   url         String
   imageUrl    String
   category    String
-  user        User[]
+  users        User[]
 }
